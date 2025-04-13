@@ -33,5 +33,5 @@ Welcome to the **Tic-Tac-Toe Web App** – a clean and interactive two-player ga
 ## 🚀 Getting Started
 
 ### 🔗 Live Demo
-> [Play Now](https://github.com/feyo46/Tic-Tac-Toe-Web-application-by-using-HTML-CSS-and-JS-/edit/main/README.md)
+> [Play Now](https://github.com/feyo46/Tic-Tac-Toe-Web-application-by-using-HTML-CSS-and-JS)
 
